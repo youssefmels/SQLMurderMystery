@@ -1,4 +1,5 @@
--- on ​Jan.15, 2018​ and that it took place in ​SQL City​.
+-- You vaguely remember that the crime was a ​murder​ that occurred sometime on ​Jan.15, 2018​ and that it took place in ​SQL City.
+
 -- select * from crime_scene_report where date = 20180115 and city = 'SQL City' and type = 'murder'
 -- select * from person where address_street_name = "Northwestern Dr" and address_number IN (select MAX(address_number) from person) or (address_street_name = "Franklin Ave" and name LIKE "Annabel%")
 -- select * from interview where person_id = 14887 or person_id = 16371
